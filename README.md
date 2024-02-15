@@ -34,11 +34,13 @@ Applies Scikit-learn to address challenges pertaining to the Rossmann Store Sale
 
 # Installation
 
-Use pip or conda to install the required packages (consider setting up a virtual environment):
+* Use pip or conda to install the required packages (consider setting up a virtual environment):
 
-```Bash
-pip install -r requirements.txt
-```
+    ```Bash
+    pip install -r requirements.txt
+    ```
 
-Open the desired notebook (.ipynb).
+* Rename .env_sample to .env and populate with your Dagshub credentials.
+
+* Open the desired notebook (.ipynb).
 Execute the cells in sequential order.

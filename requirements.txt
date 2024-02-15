@@ -15,5 +15,6 @@ shapely==2.0.1
 xgboost==2.0.0
 pycaret[models,tuner]==3.2.0
 ipykernel==6.29.2
+python-dotenv==1.0.1
 # Editable install with no version control (sklearn-ext==0.1.0)
 -e .
